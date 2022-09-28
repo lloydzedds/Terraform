@@ -4,7 +4,7 @@ provider "aws" {
  region = "eu-north-1"
 }
 
-resource "aws_instance" "example" {
+resource "aws_instance" "TerraInstance" {
     ami = "ami-000e50175c5f86214"
     instance_type = "t3.micro"
   
