@@ -1,5 +1,5 @@
 provider "aws" {
- access_key = "replace"
+ access_key = "riplace"
  secret_key = "replace"
  region = "ap-south-1"
 }
